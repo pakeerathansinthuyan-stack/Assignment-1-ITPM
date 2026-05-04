@@ -1,0 +1,4 @@
+file_type,file_path,preview_detected,status,screenshot
+PNG,D:\IT3040_Assignment1\test_automation_ui\test_automation_ui\sample.png,True,PASS,D:\IT3040_Assignment1\test_automation_ui\test_automation_ui\results\preview_pass.png
+PNG,C:\Users\aruld\OneDrive\Pictures\IT23856240\IT23856240\sample.png,True,PASS,C:\Users\aruld\OneDrive\Pictures\IT23856240\IT23856240\results\preview_pass.png
+PNG,C:\Users\aruld\OneDrive\Pictures\IT23848566\IT23848566\sample.png,True,PASS,C:\Users\aruld\OneDrive\Pictures\IT23848566\IT23848566\results\preview_pass.png
